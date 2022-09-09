@@ -67,7 +67,7 @@ const data =[
       "_id": "60b7f5c08671710327fe0060",
       "Title": "X-Men: First Class",
       "Description": "In the early 1960s, during the height of the Cold War, a mutant named Charles Xavier (James McAvoy) meets a fellow mutant named Erik Lehnsherr (Michael Fassbender). Despite their vastly different backgrounds -- Charles grew up with a wealthy family, while Erik lost his parents at Auschwitz -- the two become close friends. As the world teeters on the brink of a nuclear war, Charles and Erik with other mutants join forces to save humanity. However, a situation soon tears the friends apart.",
-      "ImageURL": "https://m.media-amazon.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_UY1200_CR90,0,630,1200_AL_.jpg",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/5/55/X-MenFirstClassMoviePoster.jpg",
       "Featured": false,
       "Release": "2011",
       "Rating" : 3 

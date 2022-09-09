@@ -8,17 +8,19 @@ const Filter = ({filterRating,filterName}) => {
         filterRating (newRating)
      }
   return (
-    <div>
+    <div className='putin'>
         <input placeholder='search by Name' onChange={ (e) => filterName ( e.target.value)} />
- <StarRatings
+ <StarRatings style={{display:'flex' }}
  starHoverColor='yellow'
           rating={rating}
           starRatedColor="yellow"
           changeRating={changeRating}
           numberOfStars={5}
-          name='rating'
-        />    </div>
-  )
+          name='rating'/>          </div>
+
+  )     
+     
+
 }
 
 export default Filter
